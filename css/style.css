@@ -23,6 +23,12 @@
 
 }
 
+/* 圖片大小設定 */
+img {
+    width: 300px;
+    height: auto;
+}
+
 
 .navbar a:hover {
 
