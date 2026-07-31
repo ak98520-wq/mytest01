@@ -26,6 +26,7 @@
 /* 圖片大小設定 */
 img {
     width: 300px;
+    max-width: 100%;
     height: auto;
 }
 
